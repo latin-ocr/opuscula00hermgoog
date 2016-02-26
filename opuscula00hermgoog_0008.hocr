@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opuscula00hermgoog/opuscula00hermgoog_0008.png"; bbox 0 0 2842 4920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 228 408 1199 547">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 228 408 1199 547">
+     <span class='ocr_line' id='line_1_1' title="bbox 228 408 1199 547; baseline 0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 228 542 231 547; x_wconf 83' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 316 408 697 547; x_wconf 75' lang='lat' dir='ltr'><strong>GODOFREDI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 740 458 1105 547; x_wconf 78' lang='lat' dir='ltr'>HERMANNI.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1196 498 1199 503; x_wconf 74' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 151 991 1251 1156">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 151 926 1314 1156">
+     <span class='ocr_line' id='line_1_2' title="bbox 151 991 1251 1156; baseline 0.006 -11"><span class='ocrx_word' id='word_1_5' title='bbox 151 991 1251 1156; x_wconf 58' lang='lat' dir='ltr'><strong>OPVSCVLA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 398 3061 1182 3189">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 398 3061 1182 3189">
+     <span class='ocr_line' id='line_1_3' title="bbox 398 3061 1182 3189; baseline -0.022 -43"><span class='ocrx_word' id='word_1_6' title='bbox 398 3068 672 3151; x_wconf 87' lang='lat' dir='ltr'><strong>VOLVMEN</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 726 3061 1012 3150; x_wconf 85' lang='lat' dir='ltr'><strong>QVARTVM.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1179 3182 1182 3189; x_wconf 21' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 223 3962 1183 4048">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 223 3962 1183 4048">
+     <span class='ocr_line' id='line_1_4' title="bbox 223 3962 1183 4048; baseline -0.027 -6"><span class='ocrx_word' id='word_1_9' title='bbox 223 3986 410 4048; x_wconf 69' lang='grc' dir='ltr'><strong>Β1Ρ1ΙΔΕ,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 441 3982 553 4038; x_wconf 74' lang='lat' dir='ltr'>APVD</span> <span class='ocrx_word' id='word_1_11' title='bbox 586 3972 825 4033; x_wconf 74' lang='lat' dir='ltr'><strong>EBNESTVM</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 858 3962 1183 4024; x_wconf 70' lang='lat' dir='ltr'><strong>mmmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 590 4149 816 4218">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 590 4112 1399 4251">
+     <span class='ocr_line' id='line_1_5' title="bbox 590 4149 816 4218; baseline -0.027 0"><span class='ocrx_word' id='word_1_13' title='bbox 590 4149 816 4218; x_wconf 81' lang='lat'>1831.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1426 4920">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1426 4920">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1426 4920; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1426 4920; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
